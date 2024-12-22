@@ -1,0 +1,9 @@
+Simple Todo App
+
+- UI (Input, Button, Task List)
+- PHP Functionality
+    - Add (To File)
+    - Mark as Complete
+    - Delete
+    - Update
+    - Show Task List (Read From File)
